@@ -1,0 +1,44 @@
+C:\Users\GSKry\AppData\Local\Programs\Python\Python36\python.exe C:/Users/user/PycharmProjects/TraceRoute/main.py hackerdom.ru
+Position   IP                   AS                                                 Country              ISP
+1          20.20.20.30                                                             United States        Microsoft Corporation
+2          213.242.203.43       AS3253 PVimpelCom                                  Russia               VimpelCom
+3          195.58.7.182         AS3253 PVimpelCom                                  Russia               VimpelCom
+4          79.104.48.73         AS3216 PVimpelCom                                  Russia               VimpelCom
+5          62.105.159.8         AS3216 PVimpelCom                                  Russia               VimpelCom
+6          195.239.186.162      AS3216 PVimpelCom                                  Russia               VimpelCom
+7          Request timed out.   N/A                                                N/A                  N/A
+8          Request timed out.   N/A                                                N/A                  N/A
+9          Request timed out.   N/A                                                N/A                  N/A
+10         212.193.68.254       AS5468 Yeltsin UrFU, Ural Federal University       Russia               Autonomous Nonprofit Organisation Russian Scientif
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------
+C:\Users\GSKry\AppData\Local\Programs\Python\Python36\python.exe C:/Users/user/PycharmProjects/TraceRoute/main.py www.google.com
+Position   IP                   AS                                                 Country              ISP
+1          20.20.20.30                                                             United States        Microsoft Corporation
+2          213.242.203.43       AS3253 PVimpelCom                                  Russia               VimpelCom
+3          195.58.7.182         AS3253 PVimpelCom                                  Russia               VimpelCom
+4          79.104.48.73         AS3216 PVimpelCom                                  Russia               VimpelCom
+5          79.104.225.13                                                           Russia               VimpelCom
+6          81.211.29.103        AS3216 PVimpelCom                                  Russia               VimpelCom
+7          108.170.250.47       AS15169 Google LLC                                 United States        Google
+8          209.85.240.116       AS15169 Google LLC                                 United States        Google
+9          216.239.56.216       AS15169 Google LLC                                 United States        Google
+10         Request timed out.   N/A                                                N/A                  N/A
+11         Request timed out.   N/A                                                N/A                  N/A
+12         Request timed out.   N/A                                                N/A                  N/A
+13         Request timed out.   N/A                                                N/A                  N/A
+14         Request timed out.   N/A                                                N/A                  N/A
+15         Request timed out.   N/A                                                N/A                  N/A
+16         Request timed out.   N/A                                                N/A                  N/A
+17         Request timed out.   N/A                                                N/A                  N/A
+18         Request timed out.   N/A                                                N/A                  N/A
+19         Request timed out.   N/A                                                N/A                  N/A
+20         64.233.165.147       AS15169 Google LLC                                 United States        Google
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------
+C:\Users\GSKry\AppData\Local\Programs\Python\Python36\python.exe C:/Users/user/PycharmProjects/TraceRoute/main.py NotAvalidInputAtAll!
+Unable to resolve target system name NotAvalidInputAtAll!.
